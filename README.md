@@ -1,5 +1,5 @@
 # know-city
-快速了解一个城市是否适合自己。
+快速了解一个城市。
 
 1. 中国大陆地区每个城市都有发展与改革委员会、城市发展规划局，查看该省、市对该地区的五年规划和长期规划；比如[《苏州市国民经济和社会发展第十四个五年规划和二〇三五年远景目标纲要》](http://fg.suzhou.gov.cn/szfgw/zcwj/202103/8744ca454d5242cda4fd9c9747a8b3a4.shtml)、[苏州市国土空间总体规划（2021-2035年）](http://sfj.suzhou.gov.cn/policy/Upload/20211213144957_60dce523b3884b50bae19b0eae198f8c.pdf)
 
@@ -24,3 +24,7 @@
 Climate reports with the weather by month, day, even hour. Great for event and trip planning!
 
 11. [全国农产品批发市场价格信息系统](https://pfsc.agri.cn/)农业农村部信息中心主办，免费查询全国各地批发市场各种物资价格；
+
+12. [《区域分化的城市发展机遇 :2023 年全球城市指数报告》 ](https://www.kearney.cn/article/-/insights/299269767)
+
+13. []()
